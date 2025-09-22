@@ -1,4 +1,4 @@
-# Hey! seja bem-vindo ao meu perfil. ⚡☕
+# Seja bem-vindo ao meu perfil. ⚡☕
 
 > Sou um desenvolvedor de software comprometido em proporcionar ótimas experiências digitais, unindo a inovação e a criatividade em cada projeto.
 
