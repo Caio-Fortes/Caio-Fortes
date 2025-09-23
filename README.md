@@ -1,5 +1,5 @@
 # Caio Fortes
-> Frontend Developer & Software Engineer
+> Frontend Developer & Web Designer
 
 
 ## Seja bem-vindo ao meu perfil. ⚡☕
