@@ -52,7 +52,7 @@ Aqui estão alguns projetos desenvolvidos para clientes reais, com foco em solu�
 | Projeto | Descrição | Link | Repositório |
 | ------- | --------- | ---- | ---- |
 | AgrariaTec | Landing Page institucional para evento, com captação de leads e informações sobre programação. | [Acessar](https://agrariatec.com.br/) | [GitHub](https://github.com/seurepo)
-| Projeto Árvore | Landing Page institucional com as informações sobre a plataforma Árvore. | [Acessar](https://arvore-gray.vercel.app/) | [GitHub](https://github.com/seurepo)
+| Projeto Árvore | Landing Page institucional com as informações sobre a plataforma Árvore. | [Acessar](https://arvore-gray.vercel.app/) | [GitHub]([https://github.com/seurepo](https://github.com/Caio-Fortes/arvore))
 
 
 ## Contato 🔗
