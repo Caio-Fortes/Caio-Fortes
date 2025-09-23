@@ -55,7 +55,9 @@ Aqui estão alguns projetos desenvolvidos para clientes reais, com foco em solu�
 | Projeto Árvore | Landing Page institucional com as informações sobre a plataforma Árvore. | [Acessar](https://arvore-gray.vercel.app/) | [GitHub](https://github.com/seurepo)
 
 
-
-
+## Contato 🔗
+- Email: caiofortesprofissional@gmail.com
+- Instagram: caiofortes.dev
+- Linkedin: Caio Fortes
 
 
