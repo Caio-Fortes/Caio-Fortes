@@ -45,6 +45,15 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor frontend apaixonado por criar i
 </p>
 
 
+## Projetos 🚀
+
+Aqui estão alguns projetos desenvolvidos para clientes reais, com foco em soluções práticas e resultados aplicados.  
+
+| Projeto | Descrição | Link | Repositório |
+| ------- | --------- | ---- | ---- |
+| AgrariaTec | Landing Page institucional para evento, com captação de leads e informações sobre programação. | [Acessar](https://agrariatec.com.br/) | [GitHub](https://github.com/seurepo)
+| Projeto Árvore | Landing Page institucional com as informações sobre a plataforma Árvore. | [Acessar](https://arvore-gray.vercel.app/) | [GitHub](https://github.com/seurepo)
+
 
 
 
