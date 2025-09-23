@@ -23,6 +23,7 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor frontend apaixonado por criar i
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwind-007FFF?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 > Versionamento de código:
@@ -38,7 +39,6 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor frontend apaixonado por criar i
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <br>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
