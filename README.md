@@ -76,3 +76,21 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
 </p>
 
 ---
+### 🚀 Projetos em Destaque
+
+Alguns projetos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
+
+| 💻 Projeto | 📝 Descrição | 🌐 Deploy | 📂 Repositório | ⚙️ Stack |
+|-----------|-------------|----------|---------------|----------|
+| **AgrariaTec** | Landing Page institucional para evento, com foco em captação de leads, apresentação da programação e experiência do usuário otimizada. | [Acessar](https://agrariatec.com.br/) | [GitHub](https://github.com/Caio-Fortes/AgrariaTec) | Front-end |
+| **Projeto Árvore** | Landing Page institucional com apresentação da plataforma Árvore, priorizando design moderno e navegação fluida. | [Acessar](https://arvore-gray.vercel.app/) | [GitHub](https://github.com/Caio-Fortes/arvore) | Front-end |
+
+---
+
+### 📬 Contato
+
+- Email: caiofortesprofissional@gmail.com 
+- Instagram: caiofortes.dev 
+- Linkedin: Caio Fortes
+
+---
