@@ -40,7 +40,14 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
 
 ---
 
-### 🎨 Estilização & UI
+### 🧰 Outros
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-F05032?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Scrum" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square" />
+  <img alt="Kanban" src="https://img.shields.io/badge/-Kanban-0052CC?style=flat-square" />
+</p>
 
 <p>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -51,21 +58,6 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
   <img alt="Headless UI" src="https://img.shields.io/badge/-HeadlessUI-000000?style=flat-square&logo=headlessui&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
-
----
-
-### ⚙️ Versionamento & Metodologias
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-F05032?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="Scrum" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square" />
-  <img alt="Kanban" src="https://img.shields.io/badge/-Kanban-0052CC?style=flat-square" />
-</p>
-
----
-
-### 🧰 Outros
 
 <p>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
