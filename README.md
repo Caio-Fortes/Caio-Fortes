@@ -13,7 +13,7 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
 
 ### 🚀 Projetos em Destaque
 
-Alguns projetos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
+Alguns projetos públicos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
 
 | 💻 Projeto | 📝 Descrição | 🌐 Deploy | 📂 Repositório | ⚙️ Stack |
 |-----------|-------------|----------|---------------|----------|
