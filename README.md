@@ -3,6 +3,24 @@
 
 Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar soluções web completas. Tenho como foco desenvolver aplicações que entreguem não apenas uma boa experiência visual, mas também eficiência, organização e qualidade técnica em toda a estrutura da aplicação, explorando constantemente novas tecnologias e formas de inovar no ecossistema web.
 
+### 📬 Contato
+
+- Email: caiofortesprofissional@gmail.com 
+- Instagram: caiofortes.dev 
+- Linkedin: Caio Fortes
+
+---
+
+### 🚀 Projetos em Destaque
+
+Alguns projetos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
+
+| 💻 Projeto | 📝 Descrição | 🌐 Deploy | 📂 Repositório | ⚙️ Stack |
+|-----------|-------------|----------|---------------|----------|
+| **Clientes & Produtos** | Sistema de gerenciamento de clientes e produtos | [Acessar site](/) | [Acessar Repositório](/) | Full-stack |
+| **AgrariaTec** | Landing Page institucional para evento. | [Acessar site](https://agrariatec.com.br/) | [Acessar Repositório](https://github.com/Caio-Fortes/AgrariaTec) | Front-end |
+| **Projeto Árvore** | Landing Page institucional apresentação da plataforma. | [Acessar site](https://arvore-gray.vercel.app/) | [Acessar Repositório](https://github.com/Caio-Fortes/arvore) | Front-end |
+
 ---
 
 <h3>🚀 Ferramentas com as quais eu trabalho</h3>
@@ -22,8 +40,6 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
----
-
 ### 🎨 Front-end
 
 <p>
@@ -37,8 +53,6 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
-
----
 
 ### 🧰 Outros
 
@@ -66,23 +80,3 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
-
----
-### 🚀 Projetos em Destaque
-
-Alguns projetos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
-
-| 💻 Projeto | 📝 Descrição | 🌐 Deploy | 📂 Repositório | ⚙️ Stack |
-|-----------|-------------|----------|---------------|----------|
-| **AgrariaTec** | Landing Page institucional para evento, com foco em captação de leads, apresentação da programação e experiência do usuário otimizada. | [Acessar](https://agrariatec.com.br/) | [GitHub](https://github.com/Caio-Fortes/AgrariaTec) | Front-end |
-| **Projeto Árvore** | Landing Page institucional com apresentação da plataforma Árvore, priorizando design moderno e navegação fluida. | [Acessar](https://arvore-gray.vercel.app/) | [GitHub](https://github.com/Caio-Fortes/arvore) | Front-end |
-
----
-
-### 📬 Contato
-
-- Email: caiofortesprofissional@gmail.com 
-- Instagram: caiofortes.dev 
-- Linkedin: Caio Fortes
-
----
