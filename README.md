@@ -20,7 +20,7 @@ Alguns projetos públicos que desenvolvi, envolvendo desde aplicações para est
 | **FORGEFY** |  ferramenta criada para acelerar o início de novos projetos, eliminando a necessidade de configurar tudo manualmente. | - | [Acessar Repositório](/https://github.com/Caio-Fortes/forgefy) | Ferramenta |
 | **AgrariaTec** | Landing Page institucional para evento. | [Acessar site](https://agrariatec.com.br/) | [Acessar Repositório](https://github.com/Caio-Fortes/AgrariaTec) | Landpage |
 | **Projeto Árvore** | Landing Page institucional apresentação da plataforma. | [Acessar site](https://arvore-gray.vercel.app/) | [Acessar Repositório](https://github.com/Caio-Fortes/arvore) | Landpage |
-| **Clientes & Produtos** | Sistema de gerenciamento de clientes e produtos (atualializando nova versão) | [Acessar site](/) | [Acessar Repositório](/) | Sistema de gestão |
+| **Clientes & Produtos** | Sistema de gerenciamento de clientes e produtos (manutenção nova versão) | [Acessar site](/) | [Acessar Repositório](/) | Sistema de gestão |
 
 ---
 
