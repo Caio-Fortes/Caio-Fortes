@@ -11,17 +11,25 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Ferramentas desenvolvidas
 
 Alguns projetos públicos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
 
-| 💻 Projeto | 📝 Descrição | 🌐 Deploy | 📂 Repositório | ⚙️ tipo |
-|-----------|-------------|----------|---------------|----------|
-| **FORGEFY** |  ferramenta criada para acelerar o início de novos projetos, eliminando a necessidade de configurar tudo manualmente. | - | [Acessar Repositório](/https://github.com/Caio-Fortes/forgefy) | Ferramenta |
-| **AgrariaTec** | Landing Page institucional para evento. | [Acessar site](https://agrariatec.com.br/) | [Acessar Repositório](https://github.com/Caio-Fortes/AgrariaTec) | Landpage |
-| **Projeto Árvore** | Landing Page institucional apresentação da plataforma. | [Acessar site](https://arvore-gray.vercel.app/) | [Acessar Repositório](https://github.com/Caio-Fortes/arvore) | Landpage |
-| **Clientes & Produtos** | Sistema de gerenciamento de clientes e produtos (manutenção nova versão) | [Acessar site](/) | [Acessar Repositório](/) | Sistema de gestão |
+| 💻 Projeto | 📝 Descrição | 🌐 Site | 📂 Repositório |
+|-----------|-------------|----------|---------------|
+| **FORGEFY** |  Ferramenta criada para acelerar o início de novos projetos, eliminando a necessidade de configurar tudo manualmente. | [Em breve]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
 
+<br />
+
+### 🚀 Projetos em destaque
+
+Alguns projetos públicos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
+
+| 💻 Projeto | 📝 Descrição | 🌐 Site | 📂 Repositório | ⚙️ Stack |
+|-----------|-------------|----------|---------------|----------|
+| **Clientes & Produtos** | Sistema de gerenciamento de clientes e produtos | [Acessar site](/) | [Acessar Repositório](/) | back/front |
+| **AgrariaTec** | Landing Page institucional para evento. | [Acessar site](https://agrariatec.com.br/) | [Acessar Repositório](https://github.com/Caio-Fortes/AgrariaTec) | front |
+| **Projeto Árvore** | Landing Page institucional apresentação da plataforma. | [Acessar site](https://arvore-gray.vercel.app/) | [Acessar Repositório](https://github.com/Caio-Fortes/arvore) | front |
 ---
 
 <h3>🚀 Ferramentas com as quais eu trabalho</h3>
