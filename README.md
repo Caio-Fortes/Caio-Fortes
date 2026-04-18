@@ -13,14 +13,14 @@ Meu nome é ***Caio Fortes***, sou desenvolvedor Full Stack apaixonado por criar
 
 ### 🚀 Ferramentas desenvolvidas
 
-Alguns projetos públicos que desenvolvi, envolvendo desde aplicações para estudo até soluções reais para clientes, com foco em performance, usabilidade e boas práticas de desenvolvimento.
+Ferramentas e projetos criados ao longo da minha jornada como desenvolvedor, com foco em aprendizado contínuo, experimentação e construção de soluções reutilizáveis.
 
 | 💻 Projeto | 📝 Descrição | 🌐 Site | 📂 Repositório |
 |-----------|-------------|----------|---------------|
-| **FORGEFY** |  Criada para acelerar o início de novos projetos, eliminando a necessidade de configurar tudo manualmente. | [Em breve]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
-| **DevelopBox** | Ambiente de experimentação, documentação, organização de conhecimento e evolução contínua como desenvolvedor. | [Em breve]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
+| **FORGEFY** |  Criada para acelerar o início de novos projetos, eliminando a necessidade de configurar tudo manualmente. | [Acessar site]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
+| **DevelopBox** | Ambiente de documentação, organização de conhecimento e evolução contínua como desenvolvedor. | [Acessar site]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
 
-<br />
+---
 
 ### 🚀 Projetos em destaque
 
