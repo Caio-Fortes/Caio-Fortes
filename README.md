@@ -17,7 +17,8 @@ Alguns projetos públicos que desenvolvi, envolvendo desde aplicações para est
 
 | 💻 Projeto | 📝 Descrição | 🌐 Site | 📂 Repositório |
 |-----------|-------------|----------|---------------|
-| **FORGEFY** |  Ferramenta criada para acelerar o início de novos projetos, eliminando a necessidade de configurar tudo manualmente. | [Em breve]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
+| **FORGEFY** |  Criada para acelerar o início de novos projetos, eliminando a necessidade de configurar tudo manualmente. | [Em breve]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
+| **DevelopBox** | Ambiente de experimentação, documentação, organização de conhecimento e evolução contínua como desenvolvedor. | [Em breve]() | [Acessar Repositório](https://github.com/Caio-Fortes/forgefy) |
 
 <br />
 
